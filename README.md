@@ -1,39 +1,15 @@
 ## Welcome to Tieu Binh's Blog
+This is the blog of Tieu Binh, who is a mechatronics student. This is just a demo blog and is still updating.
+
+### Let's start with a small formula
+
+The root mean square (RMS) value of a continuous function on an interval [T1 T2] is given as below
 <dl>
-  <img src="https://latex.codecogs.com/svg.image?\phi" title="\phi" />
+  <img src="https://latex.codecogs.com/svg.image?f_{RMS}=\sqrt{\frac{1}{T_2-T_1}\int_{T_1}^{T_2}f(t)^2dt}" title="f_{RMS}=\sqrt{\frac{1}{T_2-T_1}\int_{T_1}^{T_2}f(t)^2dt}" />
 </dl>
-You can use the [editor on GitHub](https://github.com/tieubinhco/tieubinhco.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tieubinhco/tieubinhco.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+Email: tieubinhco@gmail.com
