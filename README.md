@@ -1,7 +1,12 @@
 ## Welcome to Tieu Binh's Blog
+
 This is the blog of Tieu Binh, who is a mechatronics student. This is just a demo blog and is still updating.
 
+
 ### Let's start with a small formula
+
+
+
 
 The root mean square (RMS) value of a continuous function on an interval [T1 T2] is given as below
 <dl>
